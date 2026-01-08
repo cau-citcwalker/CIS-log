@@ -786,7 +786,7 @@
     }
   ],
   "customCategories": [],
-  "selectedCategoryId": "xyChart",
+  "selectedCategoryId": "pieChart",
   "defaultCategorySortOrders": {},
   "categoryModifications": {}
 }
