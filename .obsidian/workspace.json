@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "a3427803e2939ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "740828199f90f17b",
+        "type": "tabs",
+        "dimension": 47.19570405727924,
+        "children": [
+          {
+            "id": "bd70fd8f8314fdec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CIS log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CIS log"
+            }
+          },
+          {
+            "id": "69d3d0b0d5fe45dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260108.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "20260108"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "14810135425ae2e5",
+        "type": "tabs",
+        "dimension": 52.80429594272077,
+        "children": [
+          {
+            "id": "225f22ea620b0c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260108.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20260108"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a644345f6e0a178",
+    "type": "split",
+    "children": [
+      {
+        "id": "b65a9a8c7f337198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad6f232a66eced8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d2bdc67faf07e1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ca9408daef03ab7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "62f4ad2628605c63",
+    "type": "split",
+    "children": [
+      {
+        "id": "4785141442eaaf00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27ab959db5c71f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "log/CIS log.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CIS log"
+            }
+          },
+          {
+            "id": "dccfe7b4646670d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "log/CIS log.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CIS log"
+            }
+          },
+          {
+            "id": "9bb51e5ae7539010",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be418c0362e9814d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a805569f352ea475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "20250107.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 20250107"
+            }
+          },
+          {
+            "id": "63d1f9ad9b6c1a64",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "69d3d0b0d5fe45dd",
+  "lastOpenFiles": [
+    "log/20260107.md",
+    "20260108.md",
+    "CIS log.md",
+    "log/20251229.md",
+    "log/20260106.md",
+    "log/2025.md",
+    "log/2026.md",
+    "tmi.md",
+    "log/20260102.md",
+    "log/20260105.md",
+    "Pasted image 20260105150757.png",
+    "assets/Pasted image 20260105150808.png",
+    "Pasted image 20260105145520.png",
+    "assets",
+    "log/20251231.md",
+    "example syntaxes.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "log/20251230.md",
+    "log"
+  ]
+}
