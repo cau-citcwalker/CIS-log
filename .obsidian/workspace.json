@@ -6,7 +6,7 @@
       {
         "id": "faab77d1fb4717be",
         "type": "tabs",
-        "dimension": 44.57040572792362,
+        "dimension": 44.570405727923614,
         "children": [
           {
             "id": "8de401bec6f7d1f9",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260109.md",
+                "file": "CIS log.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20260109"
+              "title": "CIS log"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "14810135425ae2e5",
         "type": "tabs",
-        "dimension": 55.42959427207638,
+        "dimension": 55.429594272076386,
         "children": [
           {
             "id": "66e614162dfaa7b2",
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260109.md",
+                "file": "log/20260109.md",
                 "mode": "source",
                 "source": false
               },
@@ -219,16 +219,16 @@
   },
   "active": "8de401bec6f7d1f9",
   "lastOpenFiles": [
-    "log/20251229.md",
-    "20260109.md",
     "log/20260108.md",
+    "CIS log.md",
+    "log/20260109.md",
+    "log/20251229.md",
     "log/20260106.md",
     "log/20260107.md",
     "log/20260102.md",
     "log/20260105.md",
     "2026-01-08.md",
     "example syntaxes.md",
-    "CIS log.md",
     "새 텍스트 문서.txt",
     "git pull.bat",
     "git push.bat",
