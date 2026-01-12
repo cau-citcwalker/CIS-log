@@ -6,7 +6,7 @@
       {
         "id": "faab77d1fb4717be",
         "type": "tabs",
-        "dimension": 44.570405727923614,
+        "dimension": 48.161764705882355,
         "children": [
           {
             "id": "8de401bec6f7d1f9",
@@ -21,13 +21,28 @@
               "icon": "lucide-file",
               "title": "CIS log"
             }
+          },
+          {
+            "id": "493b755abd74f9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260112.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "20260112"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "14810135425ae2e5",
         "type": "tabs",
-        "dimension": 55.429594272076386,
+        "dimension": 51.83823529411765,
         "children": [
           {
             "id": "66e614162dfaa7b2",
@@ -35,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/20260109.md",
-                "mode": "source",
+                "file": "20260112.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260109"
+              "title": "20260112"
             }
           }
         ]
@@ -217,16 +232,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8de401bec6f7d1f9",
+  "active": "493b755abd74f9c2",
   "lastOpenFiles": [
-    "log/20260108.md",
     "CIS log.md",
-    "log/20260109.md",
-    "log/20251229.md",
+    "20260112.md",
+    "log/20260105.md",
     "log/20260106.md",
     "log/20260107.md",
+    "log/20260108.md",
+    "log/20260109.md",
+    "log/20251229.md",
     "log/20260102.md",
-    "log/20260105.md",
     "2026-01-08.md",
     "example syntaxes.md",
     "새 텍스트 문서.txt",
