@@ -23,31 +23,31 @@
             }
           },
           {
-            "id": "566d8bdc465590fd",
+            "id": "5b1ff3f6ea8f71c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/20260119.md",
+                "file": "log/20260123.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "20260119"
+              "title": "20260123"
             }
           },
           {
-            "id": "265906811a27f6eb",
+            "id": "4d9b36ae9168b367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260122.md",
+                "file": "log/20260126.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "20260122"
+              "title": "20260126"
             }
           }
         ],
@@ -64,12 +64,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260122.md",
+                "file": "log/20260126.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260122"
+              "title": "20260126"
+            }
+          },
+          {
+            "id": "d208637b0877b3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assignments/(Assignment 2) Playwright vs Pytest and can we use test code on hacking.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(Assignment 2) Playwright vs Pytest and can we use test code on hacking"
             }
           },
           {
@@ -86,7 +100,8 @@
               "title": "example syntaxes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,12 +275,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "265906811a27f6eb",
+  "active": "d208637b0877b3ce",
   "lastOpenFiles": [
-    "log/20260105.md",
-    "20260122.md",
-    "log/20260121.md",
+    "log/20260126.md",
     "CIS log.md",
+    "log/20260123.md",
+    "log/20260122.md",
+    "assignments/(Assignment 2) Playwright vs Pytest and can we use test code on hacking.md",
+    "assignments/(Assignment 1) Hypervisor vs Container which one is better in security.md",
+    "log/20260119.md",
+    "log/20260105.md",
+    "log/20260121.md",
     "log/20260120.md",
     "assets/Pasted image 20260121165904.png",
     "assets/Pasted image 20260121165745.png",
@@ -274,7 +294,6 @@
     "assets/Pasted image 20260121165535.png",
     "assets/Pasted image 20260121165509.png",
     "assets/Pasted image 20260121165454.png",
-    "log/20260119.md",
     "log/20260116.md",
     "assets/Pasted image 20260119162225.png",
     "log/20260115.md",
@@ -284,7 +303,6 @@
     "log/20260114.md",
     "log/20251229.md",
     "log/20251230.md",
-    "assignments/(Assignment 1) Hypervisor vs Container which one is better in security.md",
     "assets/Pasted image 20260114175214.png",
     "README.md",
     "log/20260112.md",
@@ -296,9 +314,6 @@
     "log/20260106.md",
     "log/20260107.md",
     "log/20260108.md",
-    "log/20260109.md",
-    "20260112.md",
-    "2026-01-08.md",
     "새 텍스트 문서.txt",
     "git pull.bat",
     "git push.bat",
