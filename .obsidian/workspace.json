@@ -54,17 +54,14 @@
             "id": "ea7eddfbc4b7f6c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20260303.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "20260303"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4024f63908f08d6f",
@@ -91,12 +88,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260303.md",
+                "file": "20260304.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260303"
+              "title": "20260304"
             }
           }
         ],
@@ -123,7 +120,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -250,8 +247,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -264,27 +261,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cfbf882f87b3b609",
+  "active": "ea7eddfbc4b7f6c4",
   "lastOpenFiles": [
-    "20260303.md",
+    "log/20251229.md",
+    "log/20260113.md",
     "CIS log.md",
+    "log/20260205.md",
+    "20260303.md",
+    "20260304.md",
+    "ㅁㅁ.md",
     "log/20260127.md",
     "log/20260212.md",
     "log/20260211.md",
     "log/20260210.md",
     "log/20260209.md",
     "log/20260206.md",
-    "log/20260205.md",
     "assets/Pasted image 20260212161918.png",
     "assets/Pasted image 20260211141608.png",
     "log/20260114.md",
@@ -303,10 +304,6 @@
     "assignments/(Assignment 1) Hypervisor vs Container which one is better in security.md",
     "assignments/(Assignment 2) Playwright vs Pytest and can we use test code on hacking.md",
     "example syntaxes.md",
-    "log/20260126.md",
-    "log/20260123.md",
-    "log/20260122.md",
-    "log/20260119.md",
     "assets/Pasted image 20260121165904.png",
     "assets/Pasted image 20260121165745.png",
     "assets/Pasted image 20260121165702.png",
